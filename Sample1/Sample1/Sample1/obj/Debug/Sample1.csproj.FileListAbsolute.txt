@@ -1,0 +1,6 @@
+/Users/yaekikuchi/VisualStudio/Sample1/Sample1/Sample1/obj/Debug/Sample1.csprojAssemblyReference.cache
+/Users/yaekikuchi/VisualStudio/Sample1/Sample1/Sample1/obj/Debug/Sample1.csproj.CoreCompileInputs.cache
+/Users/yaekikuchi/VisualStudio/Sample1/Sample1/Sample1/bin/Debug/Sample1.exe
+/Users/yaekikuchi/VisualStudio/Sample1/Sample1/Sample1/bin/Debug/Sample1.pdb
+/Users/yaekikuchi/VisualStudio/Sample1/Sample1/Sample1/obj/Debug/Sample1.exe
+/Users/yaekikuchi/VisualStudio/Sample1/Sample1/Sample1/obj/Debug/Sample1.pdb

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5BCE6364-057A-4CB1-84A2-7358D1463AC3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Sample1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmptyCSharpFile.cs">
+    <Files>
+      <File FileName="EmptyCSharpFile (コピー).cs" Line="12" Column="2" />
+      <File FileName=".editorconfig" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sample1" expanded="True">
+            <Node name="Sample1" expanded="True">
+              <Node name="EmptyCSharpFile.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
